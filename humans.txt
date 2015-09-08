@@ -2,7 +2,7 @@
 
 Name: Robert Claypool
 GitHub: https://github.com/robert-claypool
-twitter: https://twitter.com/robertclaypool
+Twitter: https://twitter.com/robertclaypool
 Contributions: Site and repo owner
 Location: Nashville, TN, USA
 
