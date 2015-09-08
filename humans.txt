@@ -1,0 +1,14 @@
+/* TEAM */
+
+Name: Robert Claypool
+GitHub: https://github.com/robert-claypool
+twitter: https://twitter.com/robertclaypool
+Contributions: Site and repo owner
+Location: Nashville, TN, USA
+
+/* THANKS */
+
+Name: Mark Otto
+GitHub: https://github.com/mdo
+Twitter: https://twitter.com/mdo
+Contributions: Author of Poole for Jekyll, https://github.com/poole/poole
