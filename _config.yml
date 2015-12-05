@@ -5,8 +5,8 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Techencoder
-tagline:             Technical ideas in a human readable format
+title:               R_Claypool
+tagline:
 url:                 http://robert-claypool.github.io
 paginate:            3
 baseurl:             ""
