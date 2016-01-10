@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Example content
+title: "More Sample Content"
+date:   2016-01-10 19:20:22
+categories: sandbox samples
 ---
 
-
 <div class="message">
-  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
+  Hi! This is an example blog post that shows several types of HTML content supported in this theme.
 </div>
 
 Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.

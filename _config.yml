@@ -1,18 +1,20 @@
 # Permalinks
-#
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               R_Claypool
+title:               Robert Claypool
+description:         This is the personal blog and portfolio of Robert Claypool.
+baseurl:             ""
 tagline:
 url:                 http://robert-claypool.github.io
-paginate:            3
-baseurl:             ""
+paginate:            5
+
+# Build settings
+markdown: kramdown
 
 # Assets
-#
 # We specify the directory for Jekyll so we can use @imports.
 sass:
   sass_dir:          _sass
