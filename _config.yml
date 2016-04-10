@@ -11,6 +11,7 @@ paginate:            5
 
 # Build settings
 markdown: kramdown
+exclude: ignore
 
 # Assets
 # We specify the directory for Jekyll so we can use @imports.
