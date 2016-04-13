@@ -1,0 +1,21 @@
+{
+  "name": "robert-claypool.github.io",
+  "homepage": "https://github.com/robert-claypool/robert-claypool.github.io",
+  "authors": [
+    "Robert Claypool <robert.g.claypool+git@gmail.com>"
+  ],
+  "description": "A personal website for Robert Claypool",
+  "main": "",
+  "keywords": [
+    "blog"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
