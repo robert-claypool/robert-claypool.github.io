@@ -4,10 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Hi! I'm Robert and I've been writing software since 2003.
-I love &lt;code/&gt;, location data, and the art of photography.
+Hi, I'm Robert. I've been writing software since 2003.
+I love working with &lt;code/&gt;, spatial data, and photography.
 My photos are on [Flickr](https://www.flickr.com/people/35106989@N08/), for now.
-Everything else will be posted here as I find the time.
+Other stuff will be published here as I find the time.
 
 My PGP public key is
 [0x6AF2BF57992F19ED](https://pgp.mit.edu/pks/lookup?op=vindex&search=0x6AF2BF57992F19ED).
