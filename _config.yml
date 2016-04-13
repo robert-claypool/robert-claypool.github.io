@@ -11,7 +11,7 @@ paginate:            5
 
 # Build settings
 markdown: kramdown
-exclude: ['ignore/*', 'README.md', 'Gemfile.lock', 'Gemfile']
+exclude: ['ignore/*', 'README.md', 'Gemfile.lock', 'Gemfile', "bower_components", "bower.json"]
 
 # Assets
 # We specify the directory for Jekyll so we can use @imports.
@@ -21,11 +21,16 @@ sass:
 
 # About/contact
 author:
-  name:              Robert Claypool
-  url:               https://twitter.com/robertclaypool
-  email:             robert.g.claypool@gmail.com
+  name:                    Robert Claypool
+  url:                     http://robertclaypool.info
+  email:                   robert.g.claypool@gmail.com
+  twitter_username:        RobertClaypool
+  github_username:         robert-claypool
+  bitbucket_username:      robert-claypool
+  stackoverflow_username:  robert-claypool
 
 # Custom vars
 version:             0.1.0
 github:
+  username:          robert-claypool
   repo:              https://github.com/robert-claypool/robert-claypool.github.io

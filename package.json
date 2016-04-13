@@ -1,0 +1,26 @@
+{
+  "name": "robert-claypool.github.io",
+  "version": "1.0.0",
+  "description": "A personal website of Robert Claypool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robert-claypool/robert-claypool.github.io.git"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "Robert Claypool",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robert-claypool/robert-claypool.github.io/issues"
+  },
+  "homepage": "https://github.com/robert-claypool/robert-claypool.github.io#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-eslint": "^2.0.0"
+  }
+}
