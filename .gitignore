@@ -2,7 +2,7 @@ ignore/
 _site/
 .sass-cache/
 .jekyll-metadata
-.orig
-.vim
+*.orig
+*.vim
 bower_components/
 node_modules/
