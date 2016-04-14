@@ -22,7 +22,7 @@ sass:
 # About/contact
 author:
   name:                    Robert Claypool
-  url:                     http://robertclaypool.info
+  url:                     http://robertclaypool.info/about
   email:                   robert.g.claypool@gmail.com
   twitter_username:        RobertClaypool
   github_username:         robert-claypool
@@ -31,6 +31,4 @@ author:
 
 # Custom vars
 version:             0.1.0
-github:
-  username:          robert-claypool
-  repo:              https://github.com/robert-claypool/robert-claypool.github.io
+github_repo:         https://github.com/robert-claypool/robert-claypool.github.io
