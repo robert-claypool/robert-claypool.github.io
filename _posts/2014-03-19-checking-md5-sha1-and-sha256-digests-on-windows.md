@@ -10,9 +10,9 @@ do these kinds of calculations,
 [the commands are verbose and hard to remember](https://stackoverflow.com/a/10521162/23566).
 Enter Gpg4win...
 
-[Gpg4win](http://gpg4win.org/download.html) is a email and file encryption
+[Gpg4win](https://gpg4win.org/download.html) is a email and file encryption
 package for Windows that includes the open source
-[Gnu Privacy Guard](http://www.gnupg.org). It implements the OpenPGP standard
+[Gnu Privacy Guard](https://www.gnupg.org). It implements the OpenPGP standard
 and is widely used to sign, verify, encrypt, and decrypt data.
 
 `--print-md` is a command to calculate a hash using md5, sha1, sha256, and more:
