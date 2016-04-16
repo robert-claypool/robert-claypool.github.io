@@ -3,7 +3,7 @@ var eslint = require('gulp-eslint');
 
 gulp.task('default', function() {
   return gulp
-    .src('bower_components/bourbon/app/assets/stylesheets/_bourbon.scss')
+    .src('bower_components/bourbon/app/assets/stylesheets/**')
     .pipe(gulp.dest('_sass/lib/bourbon'));
 });
 

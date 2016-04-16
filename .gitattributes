@@ -10,3 +10,7 @@
 *.ico -text
 *.png -text
 *.jpg -text
+*.ttf -text
+*.eot -text
+*.woff -text
+*.woff2 -text
