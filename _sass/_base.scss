@@ -42,7 +42,7 @@ h1, h2, h3, h4, h5, h6,
 
 p, blockquote, pre,
 ul, ol, dl, li, figure, {
-  margin-bottom: $spacing-unit / 1.5;
+  margin-bottom: $spacing-unit / 1.2;
 }
 
 /**
@@ -82,11 +82,11 @@ li {
  * Links
  */
 a {
-  color: $brand-color;
+  color: $pallet-light-blue;
   text-decoration: none;
 
   &:visited {
-    color: darken($brand-color, 10%);
+    color: $pallet-blue;
   }
 
   &:hover {
@@ -99,10 +99,10 @@ a {
  * Blockquotes
  */
 blockquote {
-  color: $grey-color;
-  border-left: 4px solid $grey-color-light;
+  color: $pallet-grey;
+  border-left: 4px solid $pallet-light-grey;
   padding-left: $spacing-unit / 2;
-  font-size: 20px;
+  font-size: 24px;
   letter-spacing: -1px;
   font-style: italic;
 
@@ -117,9 +117,9 @@ blockquote {
 pre,
 code {
   font-size: 14px;
-  border: 1px solid $grey-color-light;
+  border: 1px solid $pallet-light-grey;
   border-radius: 3px;
-  background-color: $grey-color-verylight;
+  background-color: $pallet-vlight-grey;
 }
 
 code {
@@ -181,7 +181,7 @@ pre {
     vertical-align: middle;
 
     path {
-      fill: $brand-color;
+      fill: $pallet-blue;
     }
   }
 }

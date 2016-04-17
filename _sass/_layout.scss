@@ -2,8 +2,8 @@
  * Site header
  */
 .site-header {
-  border-top: 5px solid $grey-color-dark;
-  border-bottom: 1px solid $grey-color-light;
+  border-top: 5px solid $pallet-dark-grey;
+  border-bottom: 1px solid $pallet-light-grey;
   min-height: 56px;
 
   // Positioning context for the mobile navigation icon
@@ -19,7 +19,7 @@
 
   &,
   &:visited {
-    color: $grey-color-dark;
+    color: $pallet-dark-grey;
   }
 }
 
@@ -46,7 +46,7 @@
     top: 9px;
     right: 30px;
     background-color: $background-color;
-    border: 1px solid $grey-color-light;
+    border: 1px solid $pallet-light-grey;
     border-radius: 5px;
     text-align: right;
 
@@ -64,7 +64,7 @@
         height: 15px;
 
         path {
-          fill: $grey-color-dark;
+          fill: $pallet-dark-grey;
         }
       }
     }
@@ -90,7 +90,7 @@
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid $grey-color-light;
+  border-top: 1px solid $pallet-light-grey;
   padding: $spacing-unit 0;
 }
 
@@ -113,7 +113,7 @@
 
 .footer-col-wrapper {
   font-size: 15px;
-  color: $grey-color;
+  color: $pallet-grey;
   margin-left: -$spacing-unit / 2;
   @extend %clearfix;
 }
@@ -177,13 +177,13 @@
   list-style: none;
 
   > li {
-    margin-bottom: $spacing-unit / 1.5;
+    margin-bottom: $spacing-unit / 2;
   }
 }
 
 .post-meta {
   font-size: $small-font-size;
-  color: $grey-color;
+  color: $pallet-grey;
 }
 
 .post-link {
@@ -195,13 +195,13 @@
  * Posts
  */
 .post-header {
-  margin-bottom: $spacing-unit;
+  margin-bottom: $spacing-unit / 1.2;
 }
 
 .post-title {
+  margin-bottom: $spacing-unit / 6;
   font-size: 36px;
-  letter-spacing: -1px;
-  line-height: 1;
+  line-height: 1.2;
 
   @include media-query($on-laptop) {
     font-size: 32px;
