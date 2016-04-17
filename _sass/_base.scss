@@ -12,7 +12,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font-family: $base-font-family;
+  font-family: $base-font-sans;
   font-size: $base-font-size;
   line-height: $base-line-height;
   font-weight: 400;
@@ -22,13 +22,27 @@ body {
 }
 
 /**
+ * Headings
+ */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 400;
+}
+
+h1, h2, h3 {
+  font-family: $base-font-serif;
+}
+
+/**
  * Set `margin-bottom` to maintain vertical rhythm
  */
 h1, h2, h3, h4, h5, h6,
-p, blockquote, pre,
-ul, ol, dl, figure,
 %vertical-rhythm {
   margin-bottom: $spacing-unit / 2;
+}
+
+p, blockquote, pre,
+ul, ol, dl, li, figure, {
+  margin-bottom: $spacing-unit / 1.5;
 }
 
 /**
@@ -65,13 +79,6 @@ li {
 }
 
 /**
- * Headings
- */
-h1, h2, h3, h4, h5, h6 {
-  font-weight: 400;
-}
-
-/**
  * Links
  */
 a {
@@ -95,7 +102,7 @@ blockquote {
   color: $grey-color;
   border-left: 4px solid $grey-color-light;
   padding-left: $spacing-unit / 2;
-  font-size: 18px;
+  font-size: 20px;
   letter-spacing: -1px;
   font-style: italic;
 
@@ -109,7 +116,7 @@ blockquote {
  */
 pre,
 code {
-  font-size: 15px;
+  font-size: 14px;
   border: 1px solid $grey-color-light;
   border-radius: 3px;
   background-color: $grey-color-verylight;

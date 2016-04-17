@@ -96,6 +96,7 @@
 
 .footer-heading {
   font-size: 18px;
+  font-family: $base-font-sans;
   margin-bottom: $spacing-unit / 2;
 }
 
@@ -167,7 +168,8 @@
 }
 
 .page-heading {
-  font-size: 20px;
+  font-size: 22px;
+  font-family: $base-font-sans;
 }
 
 .post-list {
@@ -175,7 +177,7 @@
   list-style: none;
 
   > li {
-    margin-bottom: $spacing-unit;
+    margin-bottom: $spacing-unit / 1.5;
   }
 }
 
@@ -197,12 +199,12 @@
 }
 
 .post-title {
-  font-size: 42px;
+  font-size: 36px;
   letter-spacing: -1px;
   line-height: 1;
 
   @include media-query($on-laptop) {
-    font-size: 36px;
+    font-size: 32px;
   }
 }
 
