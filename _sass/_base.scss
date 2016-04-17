@@ -15,7 +15,7 @@ body {
   font-family: $base-font-family;
   font-size: $base-font-size;
   line-height: $base-line-height;
-  font-weight: 300;
+  font-weight: 400;
   color: $text-color;
   background-color: $background-color;
   -webkit-text-size-adjust: 100%;
@@ -68,7 +68,7 @@ li {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-  font-weight: 300;
+  font-weight: 400;
 }
 
 /**
@@ -79,7 +79,7 @@ a {
   text-decoration: none;
 
   &:visited {
-    color: darken($brand-color, 15%);
+    color: darken($brand-color, 10%);
   }
 
   &:hover {
@@ -116,7 +116,7 @@ code {
 }
 
 code {
-  padding: 1px 5px;
+  padding: 1px 4px;
 }
 
 pre {
