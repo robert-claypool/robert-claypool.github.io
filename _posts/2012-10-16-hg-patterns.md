@@ -5,8 +5,8 @@ date: 2012-10-16 11:19
 tags: [Mecurial, Mercurial, Programming, quick-tip]
 ---
 
-Mercurial supports the "\*\*" syntax extension; it matches any string
-*across path separators* while "\*" does not.
+Mercurial supports the \*\* syntax extension; it matches any string
+*across path separators* while \* does not.
 
 An Example in PowerShell:
 
@@ -45,7 +45,7 @@ Mode                LastWriteTime     Length Name
 d----        10/16/2012  11:45 AM            my-subdirectory
 
 PS C:\hg\my-repo> cd .\my-subdirectory
-PS C:\hg\my-repo\my-subdirectory> hg add --exclude "*2*" # This will add file2.txt.  The pattern does not match because
+PS C:\hg\my-repo\my-subdirectory> hg add --exclude "*2*" # This will add file2.txt. The pattern does not match because
 we are NOT in the same directory!
 adding ..\file2.txt
 PS C:\hg\my-repo\my-subdirectory> hg st

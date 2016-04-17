@@ -10,7 +10,7 @@ to customize the output of Mecurial. It's easy to create your own.
 
 Here's one of mine...
 
-{% highlight shell %}
+{% highlight sh %}
 # This template prints the files included in each changeset.
 changeset = "{node|short}: {desc}\n{files}\n"
 file = "  {file}\n"
@@ -18,7 +18,7 @@ file = "  {file}\n"
 
 Which formats the output like this...
 
-{% highlight shell %}
+{% highlight sh %}
 e9f2c463e105: increment version for push
   setup.py
 
