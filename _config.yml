@@ -7,7 +7,7 @@ description:         This is the personal blog and portfolio of Robert Claypool.
 baseurl:             ""
 tagline:
 url:                 http://robert-claypool.github.io
-paginate:            5
+paginate:            20
 
 # Build settings
 markdown: kramdown
