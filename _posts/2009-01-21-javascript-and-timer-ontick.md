@@ -2,7 +2,7 @@
 layout: post
 title: How to run JavaScript prior to System.Web.UI.Timer OnTick
 date: 2009-01-21 01:07
-categories: [C#, JavaScript, StackOverflow, Timer, UpdatePanel]
+tags: [C#, JavaScript, StackOverflow, Timer, UpdatePanel]
 ---
 
 The short answer: you can't, or at least not easily, but there's a better
