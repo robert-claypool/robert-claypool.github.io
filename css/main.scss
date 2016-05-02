@@ -5,12 +5,12 @@
 
 // Our variables
 $base-font-sans:  'Source Sans Pro', Helvetica, sans-serif;
-$base-font-serif: 'Merriweather', Georgia;
-// $font-serif:       'Merriweather', Georgia;
+$base-font-serif: Merriweather, Georgia;
+$base-font-mono:  Consolas, 'Liberation Mono', Menlo, Courier, monospace;
 // $font-normal:      400;
 // $font-bold:        700;
 $base-font-size:   18px;
-$small-font-size:  $base-font-size * 0.875;
+$small-font-size:  $base-font-size * 0.8;
 $base-line-height: 1.4;
 
 $spacing-unit:     30px;
