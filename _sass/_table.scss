@@ -1,0 +1,29 @@
+table {
+  border-spacing: 0;
+  margin: 2em 0;
+  min-width: 100%;
+
+  thead {
+    th,
+    td {
+      background-color: $pallet-light-grey;
+    }
+  }
+
+  th {
+    text-align: left;
+  }
+
+  tbody {
+    th {
+      font-weight: $font-normal;
+    }
+  }
+
+  th,
+  td {
+    background-color: $pallet-white;
+    border: 1px solid $pallet-gray;
+    padding: 1.5rem;
+  }
+}
