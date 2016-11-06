@@ -18,7 +18,7 @@ into the future, so the team can only provide a rough estimate in conditions
 of uncertainty unless they work for days breaking the tasks down.
 However, from sprint to sprint as they work through the stories, the team
 will develop a cadence of completing <x> units of work they had
-'rough estimated', i.e. their **velocity**. This means that they can
+'rough estimated', i.e. their velocity. This means that they can
 relatively accurately estimate how long portions of the backlog will take
 to get done with simple rough estimates that the team can produce long
 before they even consider doing them. However, to make this work the
@@ -49,8 +49,9 @@ conservative estimate which accounts for the uncertainty (and then
 |13   |A week or two. This should probably be an epic, break it down.|
 |21   |Seriously? This is going to take at least a month!|
 
+
 Purists would argue that I shouldn't describe story points in relation to days
 or weeks, but I think it's important to start off by relating points to
 time. Eventually, and very quickly, you'll be able to think abstractly about
-how many points of *effort******** are involved without going though a time-to-points
+how many points of *effort* are involved without going though a time-to-points
 mental translation.
