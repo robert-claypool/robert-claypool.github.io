@@ -49,7 +49,6 @@ conservative estimate which accounts for the uncertainty (and then
 |13   |A week or two. This should probably be an epic, break it down.|
 |21   |Seriously? This is going to take at least a month!|
 
-
 Purists would argue that I shouldn't describe story points in relation to days
 or weeks, but I think it's important to start off by relating points to
 time. Eventually, and very quickly, you'll be able to think abstractly about
