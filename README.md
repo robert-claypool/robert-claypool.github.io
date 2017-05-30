@@ -3,9 +3,9 @@
 http://robert-claypool.github.io
 http://robertclaypool.info
 
-The site is auto-generated as a bunch of static files;
-When you push master branch changes to GitHub, they run a Jekyll build
-and serve the content.
+The site is served as static files which have been auto-generated from the
+master branch. When you push new changesets to GitHub, they run
+a Jekyll build on the `master` branch and serve that content.
 
 ### Updating dependencies
 
@@ -37,9 +37,9 @@ Gulp is another command line utility. Install it globally.
 $ npm install --global gulp-cli
 ```
 
-Gulp (not gulp-cli) is a part of our `devDependencies` because they recommend
-a local install. Run `npm install` to install all of the project's dev
-dependencies, including gulp. Then enter `gulp` to run the script.
+Gulp (not gulp-cli) is a part of our `devDependencies` because the Gulp team
+recommends a local install. Run `npm install` to install all of the project's
+dev dependencies, including gulp. Then run `gulp` to run the script.
 
 To summarize: Bower throws files into `bower_components` and (as needed) we
 run a gulp script to copy only what we need into various project folders.
