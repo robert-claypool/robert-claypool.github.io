@@ -15,7 +15,7 @@ tried (that failed), and after minutes or hours of research, what
 specifically convinced the dev that this *particular* implementation was
 worth using.
 
-#### Fake example:
+### Fake example:
 {% highlight JavaScript %}
 // We sync the history with local storage at this point because it's already
 // filtered down to items which need to be persisted across page loads.
@@ -24,7 +24,7 @@ worth using.
 I feel like this topic is programming 101 -- good comments explain *why!* --
 but even "good" developers consistently fail to do it.
 
-#### And now a real example:
+### And now a real example:
 {% highlight YAML %}
 # CartoDB installations assume UTF-8.
 # https://github.com/docker-library/postgres/blob/master/9.5/Dockerfile#L31
@@ -40,7 +40,7 @@ But you know what? I spent over an hour tracking down `localedef` issues in
 this particular container. I am absolutely sure that "cleaning up" those lines
 will break the environment.
 
-#### Another example:
+### Another example:
 {% highlight SQL %}
 CREATE TABLE "public"."sys_organizations" (
   "organization_id" UUID NOT NULL,
@@ -63,7 +63,7 @@ support length modifiers. Sure, they'd find out after a quick Google search,
 but how long will it take to figure out that we've used a RegEx constraint
 instead? Too long.
 
-#### Final example:
+### Final example:
 {% highlight JavaScript %}
 // --------------------------------------------------------------------------
 // -- This gateway is for members to get and change info within their org. --
