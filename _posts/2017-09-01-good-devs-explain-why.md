@@ -41,7 +41,7 @@ this particular container. I am absolutely sure that "cleaning up" those lines
 will break the environment.
 
 #### Another example:
-{% highlight PLpgSQL %}
+{% highlight SQL %}
 CREATE TABLE "public"."sys_organizations" (
   "organization_id" UUID NOT NULL,
   "name" VARCHAR(64) NOT NULL,
