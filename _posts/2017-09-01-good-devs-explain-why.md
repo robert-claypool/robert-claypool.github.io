@@ -16,23 +16,23 @@ specifically convinced the dev that this *particular* implementation was
 worth using.
 
 #### Fake example:
-```JavaScript
+{% highlight JavaScript %}
 // We sync the history with local storage at this point because it's already
 // filtered down to items which need to be persisted across page loads.
-```
+{% endhighlight %}
 
 I feel like this topic is programming 101 -- good comments explain *why!* --
 but even "good" developers consistently fail to do it.
 
 #### And now a real example:
-```YAML
+{% highlight YAML %}
 # CartoDB installations assume UTF-8.
 # https://github.com/docker-library/postgres/blob/master/9.5/Dockerfile#L31
 # shows that localedef is already run when using the official Postgres image,
 # but we must RUN IT AGAIN for some reason... initdb will otherwise fail.
 RUN localedef -i en_US -c -f UTF-8 -A /usr/share/locale/locale.alias en_US.UTF-8
 ENV LANG en_US.utf8
-```
+{% endhighlight %}
 
 Without my comment, some clever dev might think *"This is wrong. Debian Jessie
 sets the localedef and here Robert set again! This is safe to remove."*
@@ -41,7 +41,7 @@ this particular container. I am absolutely sure that "cleaning up" those lines
 will break the environment.
 
 #### Another example:
-```PLpgSQL
+{% highlight PLpgSQL %}
 CREATE TABLE "public"."sys_organizations" (
   "organization_id" UUID NOT NULL,
   "name" VARCHAR(64) NOT NULL,
@@ -53,7 +53,7 @@ CREATE TABLE "public"."sys_organizations" (
   "last_modified_date" TIMESTAMP,
 CONSTRAINT "pk_sys_organizations" PRIMARY KEY ("organization_id")
 );
-````
+{% endhighlight %}
 
 Again without comments, some hotshot (probably me, 8 months down the line)
 will think *"The DB docs say that slugs have a max length 20. If
@@ -64,14 +64,14 @@ but how long will it take to figure out that we've used a RegEx constraint
 instead? Too long.
 
 #### Final example:
-```JavaScript
+{% highlight JavaScript %}
 // --------------------------------------------------------------------------
 // -- This gateway is for members to get and change info within their org. --
 // -- The caller MUST assert org-level permissions. These functions and    --
 // -- stored procs filter data by the member's org, but they do not check  --
 // -- the member's roles or permissions.                                   --
 // --------------------------------------------------------------------------
-```
+{% endhighlight %}
 
 This type of comment I consider most important. For anyone new to your
 codebase, security decisions are most critical to understand. If your
