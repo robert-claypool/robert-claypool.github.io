@@ -35,9 +35,9 @@ ENV LANG en_US.utf8
 {% endhighlight %}
 
 Without my comment, some clever dev might think *"This is wrong. Debian Jessie
-sets the localedef and here Robert set again! This is safe to remove."*
+sets the localedef and here it's set again! This is safe to remove."*
 But you know what? I spent over an hour tracking down `localedef` issues in
-this particular container. I am absolutely sure that "cleaning up" those lines
+this container. I am absolutely sure that "cleaning up" those lines
 will break the environment.
 
 ### Another example:
