@@ -63,13 +63,13 @@ Outside the Esri bubble, I know QGIS, PostGIS, Leaflet, TileMill, Carto, and
 low-level tools like GDAL, proj.4, and OGR.
 
 ### > Virtual environments
-VMWare and ESXi? Yes. Oracle VirtualBox? Yes. Vagrant? Yes,
-see https://github.com/robert-claypool/dotfiles/tree/master/vagrant
+VMWare and ESXi? Yes. Oracle VirtualBox? Yes.
+Vagrant? [Yes](https://github.com/robert-claypool/dotfiles/tree/master/vagrant).
 
 ### > Editors
 I'm a Vimmer/Neovimmer.
-* https://github.com/robert-claypool/.vim
-* https://github.com/robert-claypool/nvim
+* [https://github.com/robert-claypool/.vim](https://github.com/robert-claypool/.vim)
+* [https://github.com/robert-claypool/nvim](https://github.com/robert-claypool/nvim)
 
 For .NET work, I use Visual Studio, VS Code, and Neovim.
 
