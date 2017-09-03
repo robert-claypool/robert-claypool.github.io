@@ -20,9 +20,6 @@ for now. Other stuff will be published here as I find the time.
 
 ## In no particular order... Stuff I know:
 
-### > Web hosting
-AWS, GoDaddy, Heroku, whatever.
-
 ### > Windows administration
 I've never been a full sys-admin, but I've managed dozens of Windows
 servers over the years. I know enough about IIS, AD, and domain
@@ -40,7 +37,7 @@ The terminal doesn't scare me.
 ### > Languages
 Bash, JavaScript, TypeScript, C#, VB .NET, VBA, SQL, PL/pgSQL
 
-I've dabbled in Python, and obviously I know config formats like YAML, JSON, and XML.
+I've dabbled in Python.
 
 ### > Frameworks
 Pretty much the entire ASP.NET stack, especially MVC. I stared doing .NET work
@@ -48,8 +45,8 @@ when it was version 1.1.
 
 Angular 2+ and Vue.js -- I have written production apps with both.
 
-React is very interesting to me. It's just a matter of time before I pick it up,
-but no, I don't really know it yet.
+React is interesting to me. It's just a matter of time before I pick it up,
+but no, I don't know it yet.
 
 For UI work, I really like Semantic UI. I don't like Foundation. Bootstrap is fine.
 
@@ -61,6 +58,9 @@ on this software stack.
 
 Outside the Esri bubble, I know QGIS, PostGIS, Leaflet, TileMill, Carto, and
 low-level tools like GDAL, proj.4, and OGR.
+
+### > Web hosting
+AWS, GoDaddy, Heroku, whatever.
 
 ### > Virtual environments
 VMWare and ESXi? Yes. Oracle VirtualBox? Yes.
@@ -76,8 +76,7 @@ For .NET work, I use Visual Studio, VS Code, and Neovim.
 ### > Source control
 Git these days, TFS if needed.
 
-Before Git I used Mecurial, before Mecurial was SVN, before SVN
-was Visual Source Safe.
+Before Git I used Mecurial, before that SVN, before that Visual Source Safe.
 
 ### > DevOps
 I have informally filled the role of DevOps engineer everywhere I go -- Webpack,
@@ -133,8 +132,8 @@ I don't reuse passwords. Google Auth is my friend.
 ### > Crypto currencies
 It's just a hobby, but I could talk about this for hours.
 
-You should read the [Satoshi whitepaper](https://bitcoin.org/bitcoin.pdf).
-Prepare to be blown away. :)
+If you read the [Satoshi whitepaper](https://bitcoin.org/bitcoin.pdf),
+prepare to be blown away. :)
 
 ## Terms and conditions
 This blog was made to distribute valuable info and show off my recent
