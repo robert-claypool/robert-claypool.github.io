@@ -25,7 +25,7 @@ I've never been a full sys-admin, but I've managed dozens of Windows
 servers over the years. I know enough about IIS, AD, and domain
 controllers to be dangerous, and I can script PowerShell if forced.
 
-### > Linux administation
+### > Linux administration
 Most of my dev work is on Linux these days.
 I've installed/managed Debian, Ubuntu, CentOS, Fedora, Amazon Linux, and
 Arch on remote and local machines. I know Bash, SSH, GPG, TMux, Vim, grep, sed,
