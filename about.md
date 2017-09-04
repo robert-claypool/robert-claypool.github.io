@@ -11,7 +11,7 @@ for now. Other stuff will be published here as I find the time.
 
 ## Find me on:
 * [GitHub](https://github.com/robert-claypool)
-* [BitBucket](https://bitbucket.org/robert-claypool)
+* [Gist](https://gist.github.com/robert-claypool)
 * [StackOverflow](https://stackoverflow.com/users/23566/robert-claypool)
 * [Twitter](https://twitter.com/#!/robertclaypool)
 * [Flickr](https://www.flickr.com/people/35106989@N08/)
