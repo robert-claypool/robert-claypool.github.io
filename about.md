@@ -92,7 +92,7 @@ Redis, NGINX, Docker, Docker Compose, SQL Server, and PostgreSQL. I know
 all of them pretty well.
 
 I hate Oracle. It's a fine database, but the company is garbage. Postgres is
-free and awesome, use that or MySQL instead.
+free and awesome, use that instead.
 
 ### > AWS and "the cloud"
 I'm learning Azure now, but Amazon Web Services (AWS) is what I really know.
