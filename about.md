@@ -89,7 +89,7 @@ and get out of a team's way.
 Redis, NGINX, Docker, Docker Compose, SQL Server, and PostgreSQL. I know
 all of them pretty well.
 
-Oracle a fine database, but the company is garbage. Postgres is free and
+Oracle a fine database, but the company is toxic. Postgres is free and
 awesome, use that instead.
 
 ### > AWS and "the cloud"
