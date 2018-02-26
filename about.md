@@ -6,16 +6,14 @@ permalink: /about/
 
 Hi, I'm Robert! I've been writing software since 2003.
 I love working with &lt;code/&gt;, spatial data, and photography.
-My photos are on [Flickr](https://www.flickr.com/people/35106989@N08/),
-for now. Other stuff will be published here as I find the time.
+My photos are on [Flickr](https://www.flickr.com/people/35106989@N08/) and
+[Unsplash](https://unsplash.com/@robert_claypool).
 
 ## Find me on:
 * [GitHub](https://github.com/robert-claypool)
 * [Gist](https://gist.github.com/robert-claypool)
 * [StackOverflow](https://stackoverflow.com/users/23566/robert-claypool)
 * [Twitter](https://twitter.com/#!/robertclaypool)
-* [Flickr](https://www.flickr.com/people/35106989@N08/)
-* [Facebook](https://www.facebook.com/robert.g.claypool)
 * [LinkedIn](https://www.linkedin.com/in/robertclaypool)
 
 ## In no particular order... Stuff I know:
@@ -23,10 +21,9 @@ for now. Other stuff will be published here as I find the time.
 ### > Windows administration
 I've never been a full sys-admin, but I've managed dozens of Windows
 servers over the years. I know enough about IIS, AD, and domain
-controllers to be dangerous, and I can script PowerShell if forced.
+controllers to be dangerous, and I can script PowerShell when needed.
 
 ### > Linux administration
-Most of my dev work is on Linux these days.
 I've installed/managed Debian, Ubuntu, CentOS, Fedora, Amazon Linux, and
 Arch on remote and local machines. I know Bash, SSH, GPG, TMux, Vim, grep, sed,
 [etc](https://sanctum.geek.nz/arabesque/series/unix-as-ide/),
@@ -35,20 +32,21 @@ Arch on remote and local machines. I know Bash, SSH, GPG, TMux, Vim, grep, sed,
 The terminal doesn't scare me.
 
 ### > Languages
-Bash, JavaScript, TypeScript, C#, VB .NET, VBA, SQL, PL/pgSQL
+Bash, JavaScript, TypeScript, C#, VB.NET, VBA, SQL, PL/pgSQL
 
 I've dabbled in Python.
 
 ### > Frameworks
-Pretty much the entire ASP.NET stack, especially MVC. I stared doing .NET work
+The entire ASP.NET stack, especially MVC. I stared writing .NET applications
 when it was version 1.1.
 
-Angular 2+ and Vue.js -- I have written production apps with both.
+React + Redux, Angular + Ngrx, AngularJS, and Vue -- I have written production
+apps on all of these frameworks.
 
-React is interesting to me. It's just a matter of time before I pick it up,
-but no, I don't know it yet.
-
-For UI work, I really like Semantic UI. I don't like Foundation. Bootstrap is fine.
+For UI/CSS, I really like Semantic and Ant Design, but not Foundation.
+Bootstrap is boring but fine. For a new project, I would seriously
+consider styled-components (CSS-in-JS) and the highly composable
+[Rebass](http://jxnblk.com/rebass/) library.
 
 ### > GIS
 My career started in Geographic Information Systems (GIS) in 2003. I'm an
@@ -60,7 +58,7 @@ Outside the Esri bubble, I know QGIS, PostGIS, Leaflet, TileMill, Carto, and
 low-level tools like GDAL, proj.4, and OGR.
 
 ### > Web hosting
-AWS, GoDaddy, Heroku, whatever.
+AWS, GoDaddy, Heroku, Azure.
 
 ### > Virtual environments
 VMWare and ESXi? Yes. Oracle VirtualBox? Yes.
@@ -80,9 +78,9 @@ Before Git I used Mecurial, before that SVN, before that Visual Source Safe.
 
 ### > DevOps
 I have informally filled the role of DevOps engineer everywhere I go -- Webpack,
-Grunt, Gulp, MSBuild, TFS, Mecurial (hg), Git, Hudson/Jenkins CI, Flowdock,
-Slack, Atlassian Bitbucket/Jira/Bamboo, GitHub, GitLab CE, Docker Compose,
-Vagrant, unit testing frameworks, and more.
+Grunt, Gulp, MSBuild, TFS, VSTS, Mecurial (hg), Git, Hudson/Jenkins CI,
+Flowdock, Slack, Atlassian Bitbucket/Jira/Bamboo, GitHub, GitLab CE,
+Docker Compose, Vagrant, unit testing frameworks, and more.
 
 DevOps isn't about the tools, but the process. I know how to automate things
 and get out of a team's way.
@@ -91,11 +89,11 @@ and get out of a team's way.
 Redis, NGINX, Docker, Docker Compose, SQL Server, and PostgreSQL. I know
 all of them pretty well.
 
-I hate Oracle. It's a fine database, but the company is garbage. Postgres is
-free and awesome, use that instead.
+Oracle a fine database, but the company is garbage. Postgres is free and
+awesome, use that instead.
 
 ### > AWS and "the cloud"
-I'm learning Azure now, but Amazon Web Services (AWS) is what I really know.
+I'm learning Azure now, but Amazon Web Services (AWS) is what I know best.
 
 I have managed a network of servers and services on AWS since 2012.
 My experience spans a large number of the core services which are needed to
