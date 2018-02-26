@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Good Developers Explain Why
+title: On Writing Useful Comments
 date: 2017-09-01 17:00
-tags: [code quality, security, rant]
+tags: [code quality, security]
 ---
 
 Code is written once and read many times. Your code will live far longer
@@ -34,7 +34,7 @@ RUN localedef -i en_US -c -f UTF-8 -A /usr/share/locale/locale.alias en_US.UTF-8
 ENV LANG en_US.utf8
 {% endhighlight %}
 
-Without my comment, some clever dev might think *"This is wrong. Debian Jessie
+Without the comment, some clever dev might think *"This is wrong. Debian Jessie
 sets the localedef and here it's set again! This is safe to remove."*
 But you know what? I spent over an hour tracking down `localedef` issues in
 this container. I am absolutely sure that "cleaning up" those lines
