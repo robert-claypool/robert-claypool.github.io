@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/robert_claypool
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://robertclaypool.info
+  * I am robert_claypool (https://keybase.io/robert_claypool) on keybase.
+  * I have a public key with fingerprint 3606 A66E CA1C 3107 DFED  32DF 6AF2 BF57 992F 19ED
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01019f59007db18bef5c73004c5ffec6cce4b398c7e7635556260680846276ed31320a",
+      "fingerprint": "3606a66eca1c3107dfed32df6af2bf57992f19ed",
+      "host": "keybase.io",
+      "key_id": "6af2bf57992f19ed",
+      "kid": "01019f59007db18bef5c73004c5ffec6cce4b398c7e7635556260680846276ed31320a",
+      "uid": "0948a3a2bf777c65c10185a04c135619",
+      "username": "robert_claypool"
+    },
+    "service": {
+      "hostname": "robertclaypool.info",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1529202649,
+  "expire_in": 157680000,
+  "prev": "03f292de87a953117561b63213d7d622a3c8b14db8a069d46c9cb34d532aee2f",
+  "seqno": 3,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.77
+Comment: https://keybase.io/crypto
+
+yMIuAnicrZJbSBRRGMfX7rt0wyQzIWjIoDCdmbNzZmZLsIjCraCLlVqynTlzRkfd
+mXV2dNWKLlSmPfRSSkEX2u1mBKahYlRaZg9KSUHkQz30YEJswRIlWNaZyoegx87L
+4Zzz+/+/7/9x+uZMdXmSyhIPd5/LTosnDfTGqlx7Mp4O72cUU61lfPuZcvJrIxUq
+CduBcl1lfAzLsZysCTLLiqrCSQrRBCwClvViQdMIhhgTrwJkCYtEhEAQBMhDFkqs
+5IW8CIkKOMCziMlkNN0oIVbI0g2b2gIKIQgJRhwGHPXWKMqrGkQar2iCKMu8xslE
+pcJSM+woaHMKCpMs3aR39BD41d4/+P/cd9VvO9krIYBoLVEUMRQwtZcERO04IEBO
+dsAwsQwUJJS2TIVYdgBXoNqQaVYwBzMZ+litY+LM1wn0FzjJZemG5qQLWaZtYqrz
+MaW2HfI5ers25AgiRAn8sQoouqHSoVJBNbHCumkwPo6S2NYdb07gZZ7loVfOZEhN
+SLdIQHcIQaQp6XLKkGonGtAoqRJJRLIAOE6keRQIeA6oogp5HgEsKZxXVSTEQln1
+QixjBXhVAfCIEF5jnHCVhsn4AG0TlVDLsF5iILvKIszBRz17p7mSPK4Z06c4n83l
+cc+f/ILzkmdOZFl2dHnKm9WtdnQ8+vW0v7twQAseePGstKmdye2om+GWnqRuOHOx
+2Z8RdV3rfD00VtcaLV60OSf2raC+JQ4fz70R6VmQf/R1XyyS/3LNcYvEh/qLCi4c
+YheOvY9kb//cfuTjbDxadrbw6rh/pf9C1shQZMeD4Jg76fvhenfe1m31DZ01KeuW
+7UzPC9z62rLxzsVNI6suZXiMV0VNNzf8uP0po01OP/ZisCuSmNWXKH4+3vbOd2Uw
+eO/UicreykS6v+Pt+OLcFSvuLi1gk7t2tacdv+zOPX8ysCR1ffP94XitNtbdt364
++aT0oXofacxb9GX0e8vEWtRQFhy5Hm/ckhPr/wlEkkqt
+=7XiQ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/robert_claypool
+
+==================================================================
+
