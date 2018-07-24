@@ -13,18 +13,19 @@ My photos are on [Flickr](https://www.flickr.com/people/35106989@N08/) and
 * [GitHub](https://github.com/robert-claypool)
 * [Gist](https://gist.github.com/robert-claypool)
 * [StackOverflow](https://stackoverflow.com/users/23566/robert-claypool)
+* [CodePen](https://codepen.io/robert-claypool/)
 * [Twitter](https://twitter.com/#!/robertclaypool)
 * [LinkedIn](https://www.linkedin.com/in/robertclaypool)
 
 ## In no particular order... Stuff I know:
 
 ### > Windows administration
-I've never been a full sys-admin, but I've managed dozens of Windows
+I've never been a sys-admin, but I've managed dozens of Windows
 servers over the years. I know enough about IIS, AD, and domain
 controllers to be dangerous, and I can script PowerShell when needed.
 
 ### > Linux administration
-I've installed/managed Debian, Ubuntu, CentOS, Fedora, Amazon Linux, and
+Debian, Ubuntu, CentOS, Fedora, Amazon Linux, and
 Arch on remote and local machines. I know Bash, SSH, GPG, TMux, Vim, grep, sed,
 [etc](https://sanctum.geek.nz/arabesque/series/unix-as-ide/),
 [etc](https://github.com/jlevy/the-art-of-command-line).
@@ -44,21 +45,21 @@ React + Redux, Angular + Ngrx, AngularJS, and Vue -- I have written production
 apps on all of these frameworks.
 
 For UI/CSS, I really like Semantic and Ant Design, but not Foundation.
-Bootstrap is boring but fine. For a new project, I would seriously
+Bootstrap is boring but fine. For a new project, I would
 consider styled-components (CSS-in-JS) and the highly composable
 [Rebass](http://jxnblk.com/rebass/) library.
 
 ### > GIS
 My career started in Geographic Information Systems (GIS) in 2003. I'm an
 expert in Esri ArcGIS Desktop, Server, 3D Analyst, Spatial Analyst,
-Network Analyst, and APIs. I've built multiple production systems and tools
+Network Analyst, and APIs. I've built several production systems and tools
 on this software stack.
 
 Outside the Esri bubble, I know QGIS, PostGIS, Leaflet, TileMill, Carto, and
 low-level tools like GDAL, proj.4, and OGR.
 
 ### > Web hosting
-AWS, GoDaddy, Heroku, Azure.
+AWS, Firebase, Heroku, Azure, GoDaddy, GitHub Pages.
 
 ### > Virtual environments
 VMWare and ESXi? Yes. Oracle VirtualBox? Yes.
@@ -86,14 +87,15 @@ DevOps isn't about the tools, but the process. I know how to automate things
 and get out of a team's way.
 
 ### > Data and networking
-Redis, NGINX, Docker, Docker Compose, SQL Server, and PostgreSQL. I know
-all of them pretty well.
+Redis, NGINX, Docker, Docker Compose, SQLite, SQL Server, and PostgreSQL.
 
 Oracle a fine database, but the company is toxic. Postgres is free and
 awesome, use that instead.
 
+GraphQL and REST.
+
 ### > AWS and "the cloud"
-I'm learning Azure now, but Amazon Web Services (AWS) is what I know best.
+I'm learning K8s and Azure now, but Amazon Web Services (AWS) is what I know best.
 
 I have managed a network of servers and services on AWS since 2012.
 My experience spans a large number of the core services which are needed to
@@ -125,7 +127,7 @@ such environments.
 My PGP public key is
 [0x6AF2BF57992F19ED](https://pgp.mit.edu/pks/lookup?op=vindex&search=0x6AF2BF57992F19ED).
 
-I don't reuse passwords. Google Auth is my friend.
+I don't reuse passwords. Google Auth everywhere.
 
 ### > Crypto currencies
 It's just a hobby, but I could talk about this for hours.
