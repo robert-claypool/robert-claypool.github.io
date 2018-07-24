@@ -38,6 +38,8 @@ Bash, JavaScript, TypeScript, C#, VB.NET, VBA, SQL, PL/pgSQL
 I've dabbled in Python.
 
 ### > Frameworks
+Node.js
+
 The entire ASP.NET stack, especially MVC. I stared writing .NET applications
 when it was version 1.1.
 
@@ -92,7 +94,7 @@ Redis, NGINX, Docker, Docker Compose, SQLite, SQL Server, and PostgreSQL.
 Oracle a fine database, but the company is toxic. Postgres is free and
 awesome, use that instead.
 
-GraphQL and REST.
+GraphQL and REST, with or without Swagger.
 
 ### > AWS and "the cloud"
 I'm learning K8s and Azure now, but Amazon Web Services (AWS) is what I know best.
