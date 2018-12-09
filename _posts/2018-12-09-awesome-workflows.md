@@ -5,7 +5,7 @@ date: 2018-12-09 12:55
 tags: [workflows, code quality]
 ---
 
-I love software development for it's blend of art and science. While design
+I love software development for its blend of art and science. While design
 patterns train us to see elegant, *artful solutions*, debugging and
 troubleshooting are constant reminders of the *exacting nature* of machines we
 try to control.
@@ -27,7 +27,7 @@ since around 2010.
 ## Goal: Reduce The Friction Between Your Brain And Your Code
 
 1.) If at all possible, work on a machine which responds instantly to most of
-your commands. A slow machine kills productivity.
+your commands. **A slow machine kills productivity.**
 
 2.) We constantly work with text, lots of text! Our ability to find text
 quickly, before short term memory is lost, is critical:
@@ -41,17 +41,17 @@ For this, learn tools like `grep` and `sed` plus regular expressions and IDE
 shortcuts. I hated regex until I understood it. Now it's like a butler
 available at any moment to fetch whatever I need.
 
-3.) Modal editors (Vim, Emacs) have a steep learning curve, but their payback
-is enormous over a 20+ year career. Once you learn the meta-language of Vim
-or Emacs, macros are always just a few keystrokes away. Tasks like refactoring
-are easier, and dare I say fun! Manual repetition of complex editing sequences
-is boring and error prone, but writing a macro is a fun little mini-challenge
-that pays off immediately when you run it.
+3.) **Modal editors** (Vim, Emacs) have a steep learning curve, but their
+payback is enormous over a 20+ year career. Once you learn the meta-language
+of Vim or Emacs, **macros** are always just a few keystrokes away. Tasks like
+refactoring are easier, and dare I say fun! Manual repetition of complex
+editing sequences is boring and error prone, but writing a macro is a fun
+little mini-challenge that pays off immediately when you run it.
 
 4.) The mouse doesn't just slow us down, it interrupts our flow. Can you
-switch windows and launch programs without clicking on the screen?
+**switch windows and launch programs** without clicking on the screen?
 Accessibility features of the OS are not only for disabled users! Learn
-shortcuts for tasks you constantly do, like switching between an IDE
+**shortcuts** for tasks you constantly do, like switching between an IDE
 and browser.
 
 5.) A big push recently has been on Infrastructure as Code (IaC), and for good
@@ -60,10 +60,10 @@ reason: If our shared testing and production resources are
 then we are forced to automate the processes which replace them. Why not
 extend this principal to your local desktop? Use tools
 like Docker and Kubernetes locally as a kind of
-[dogfooding](https://en.wikipedia.org/wiki/Eating_your_own_dog_food) against
+[**dogfooding**](https://en.wikipedia.org/wiki/Eating_your_own_dog_food) against
 what DevOps is doing in production.
 
-Source control your [dotfiles](https://github.com/robert-claypool/dotfiles)
+Source control your [**dotfiles**](https://github.com/robert-claypool/dotfiles)
 and push more stuff into containers. [Cloud native](https://www.cncf.io/)
 technologies are not just for the cloud. They also bring predictability and
 resilience to a desktop environment - saving you time and possibly
@@ -81,14 +81,14 @@ them all? No, magic abounds! But as much as possible, I limit this
 craziness and understand at least how the build system converts everything
 into bundles that make my app.
 
-One way to stamp out magic is to read official documentation. Often it's
+One way to stamp out magic is to read **official documentation**. Often it's
 surprisingly good!
 
-Another way is to use the terminal for programs designed to be used on
+Another way is to **use the terminal** for programs designed to be used on
 the terminal. GUIs are great for very visual tasks, e.g. 3-way merges, but
 don't use a GUI for all Git tasks just because a few are confusing in the
 terminal. The terminal gives direct access to inputs and outputs of the program
-itself. This leads to powerful composeability: The heart of
+itself. This leads to powerful **composeability**: The heart of
 [The Unix Way](https://dev.to/gypsydave5/the-unix-way-or-why-you-actually-want-to-use-vim-3n8p).
 
 ## Goal: Document Why (And Sometimes How)
@@ -130,8 +130,8 @@ or (3) the devs wrongly expect reviews to take a lot of time and effort.
 There are other reasons, like lack of trust, but let's examine just these
 three:
 
-1.) Code reviews are easier if I have mastered the fundamentals of
-Git. Most of the time, I won't need to pull down a topic branch to
+1.) Code reviews are easier if I have mastered **the fundamentals of Git**.
+Most of the time, I won't need to pull down a topic branch to
 run it locally or rebase conflicting changes, but when I do, a mastery
 of Git makes it a breeze.
 
