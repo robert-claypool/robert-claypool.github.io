@@ -96,10 +96,10 @@ itself. This leads to powerful composeability: The heart of
 I have, many times, changed my mind when writing code-level documentation.
 To give an example:
 
-```
+{% highlight JavaScript %}
 // We sync the payoad with local storage at this point because it's already
 // filtered down to items which should be persisted across page loads.
-```
+{% endhighlight %}
 
 * Do we really want this data to remain across page loads?
 * What if the filter settings are changed?
