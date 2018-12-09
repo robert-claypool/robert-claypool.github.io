@@ -107,7 +107,7 @@ To give an example:
 
 Writing useful comments forces me to think through the implementation
 enough to explain it to others and maybe convince them it's a good idea.
-I try to imagine my comments are written for a skeptic;
+I try to imagine my comments are **written for a skeptic**;
 for someone who assumes I'm bad at my job and will want to rewrite my code.
 
 If my comments can get the next developer into the same "head space" as I was
@@ -136,8 +136,8 @@ run it locally or rebase conflicting changes, but when I do, a mastery
 of Git makes it a breeze.
 
 2.) If project managers are pushing so much that a few hours
-on code review is not possible, then the project is already at risk.
-Project mangers won't say, "skip the review", but they will
+on code review is not possible, then the project is **already at risk**.
+Project managers won't say, "skip the review", but they will
 say, "the demo is at 4pm" (which might imply, "skip the review").
 I don't have a one-liner advice to fix this, sorry.
 
@@ -154,4 +154,11 @@ debt. Just the expectation of a review will make me even more careful.
 
 We aren't machines, we work with machines, so take breaks and set boundaries!
 This will improve your work as much as any other goal above.
+
+## TL;DR
+
+1. Get a fast machine.
+2. Know what your code is doing, even if it works before you know.
+3. Learn RegEx, Git, Vim, Docker and Bash or PowerShell as best you can.
+4. Write good comments, get code reviews, and take care of yourself.
 
