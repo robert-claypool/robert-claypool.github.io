@@ -129,7 +129,7 @@ such environments.
 My PGP public key is
 [0x6AF2BF57992F19ED](https://pgp.mit.edu/pks/lookup?op=vindex&search=0x6AF2BF57992F19ED).
 
-I don't reuse passwords. Google Auth everywhere.
+https://keybase.io/robert_claypool
 
 ### > Crypto currencies
 It's just a hobby, but I could talk about this for hours.
