@@ -141,4 +141,4 @@ otherwise noted. I avoid reposting code that's not mine without proper
 attribution, but please be careful to distinguish what is mine and what is not.
 
 If you have a doubt about the ownership or terms of anything on this site,
-email me at <mailto:robert.g.claypool@gmail.com>
+email me at <mailto:robert-claypool@outlook.com>
