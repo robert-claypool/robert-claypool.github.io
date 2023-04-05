@@ -4,115 +4,102 @@ title: About
 permalink: /about/
 ---
 
-Hi, I'm Robert! I've been writing software since 2003.
-I love working with &lt;code/&gt;, spatial data, and photography.
-My photos are on [Flickr](https://www.flickr.com/people/35106989@N08/) and
+Welcome! I'm Robert, a seasoned software developer with a passion for
+systems design, spatial data, and photography. You can check out my
+photos on [Flickr](https://www.flickr.com/people/35106989@N08/) and
 [Unsplash](https://unsplash.com/@robert_claypool).
 
-## Find me on:
+## Connect with me:
 
 * [GitHub](https://github.com/robert-claypool)
 * [Gist](https://gist.github.com/robert-claypool)
 * [StackOverflow](https://stackoverflow.com/users/23566/robert-claypool)
-* [CodePen](https://codepen.io/robert-claypool/)
-* [Twitter](https://twitter.com/#!/robertclaypool)
+* [Twitter](https://twitter.com/#!/RobertClaypool)
 * [LinkedIn](https://www.linkedin.com/in/robertclaypool)
 
-## In no particular order... Stuff I know:
+## My areas of expertise include:
 
 ### > Windows administration
 
-I know enough about IIS, AD, and domain controllers to be dangerous, and I can
-script DOS or PowerShell when needed.
+With a strong background in Windows administration, I am proficient in IIS,
+Active Directory, and domain controllers. I am skilled in scripting DOS and
+PowerShell as needed.
 
 ### > Linux administration
 
-Debian, Ubuntu, CentOS, Fedora, Amazon Linux, and
-Arch on remote and local machines. I know Bash, SSH, GPG, TMux, Vim, grep, sed,
-[etc](https://sanctum.geek.nz/arabesque/series/unix-as-ide/),
-[etc](https://github.com/jlevy/the-art-of-command-line).
+Experienced in managing Debian, Ubuntu, CentOS, Fedora, Amazon Linux 2,
+and Arch on remote and local machines. I am well-versed in Bash, SSH,
+GPG, TMux, Vim, grep, sed,
+[and](https://sanctum.geek.nz/arabesque/series/unix-as-ide/),
+[more](https://github.com/jlevy/the-art-of-command-line).
 
 The terminal doesn't scare me.
 
 ### > Languages
 
-Dart, Bash, JavaScript, TypeScript, C#, VB.NET, VBA, SQL, PL/pgSQL
-
-I've dabbled in Python.
+Proficient in Bash, JavaScript, TypeScript, C#, VB.NET, VBA, SQL, PL/pgSQL,
+and some Python
 
 ### > Frameworks
 
 Node.js
 
-The entire ASP.NET stack, especially MVC. I stared writing .NET applications
-when it was version 1.1.
+ASP.NET, especially MVC and .NET Core. I stared developing .NET apps at
+version 1.1.
 
-Flutter and Dart.
+React + Redux, dva + umi, Angular + Ngrx, AngularJS, Gatsby, and Vue
 
-React + Redux, dva + umi, Angular + Ngrx, AngularJS, Gatsby, and Vue -- I have
-built production apps on all.
-
-For UI/CSS, I really like Semantic and Ant Design, but not Foundation.
-Bootstrap is boring but fine.
+For UI/CSS, I prefer the utility classes approach made popular
+by Tailwind - often combined with a components library like Mantine or Rediux.
 
 ### > GIS
 
-My career started in Geographic Information Systems (GIS) in 2003. I'm an
-expert in Esri ArcGIS Desktop, Server, 3D Analyst, Spatial Analyst,
-Network Analyst, and APIs. I've built several production systems and tools
-on this software stack.
-
-Outside the Esri bubble, I know QGIS, PostGIS, Leaflet, TileMill, Carto, and
-low-level tools like GDAL, proj.4, and OGR.
+Having started my career in GIS in 2003, I have extensive expertise in
+Esri ArcGIS Desktop, Server, 3D Analyst, Spatial Analyst, Network Analyst,
+and APIs. I've also worked with QGIS, PostGIS, Leaflet, TileMill, Carto,
+and low-level tools like GDAL, proj.4, and OGR to build production
+systems on open-source GIS software.
 
 ### > Web hosting
 
-AWS, Firebase, Heroku, Azure, GoDaddy, GitHub Pages, Netlify.
+AWS, Azure, GCP, Firebase, Heroku, Azure, GoDaddy, GitHub Pages, Netlify, Vercel
 
 ### > Virtual environments and containers
 
-Docker, VMWare and ESXi, Oracle VirtualBox, and
-[Vagrant](https://github.com/robert-claypool/dotfiles/tree/master/vagrant).
+Docker, VMWare and ESXi, Oracle VirtualBox, Parallels and
+[Vagrant](https://github.com/robert-claypool/dotfiles/tree/master/vagrant)
 
 ### > Editors
 
-I'm a Vimmer/Neovimmer.
-* [https://github.com/robert-claypool/.vim](https://github.com/robert-claypool/.vim)
-* [https://github.com/robert-claypool/nvim](https://github.com/robert-claypool/nvim)
+Visual Studio, VS Code, and Vim/Neovim:
 
-For .NET work, I use Visual Studio, VS Code, and Neovim.
+* [https://github.com/robert-claypool/my.vim](https://github.com/robert-claypool/my.vim)
 
 ### > Source control
 
-Git, and sometimes TFS.
+Expert [working knowledge of Git](https://stackoverflow.com/questions/32854978/what-is-the-difference-between-eol-lf-and-text-in-a-gitattributes-file).
 
-Before Git I used Mecurial, before that SVN, before that Visual Source Safe.
+Previously, I have used Mecurial, TFS, SVN, and Visual Source Safe.
 
 ### > DevOps
 
-I have informally filled the role of DevOps engineer everywhere I go -- Webpack,
-Grunt, Gulp, MSBuild, TFS, VSTS, Mecurial (hg), Git, Hudson/Jenkins CI,
-Flowdock, Slack, Atlassian Bitbucket/Jira/Bamboo, GitHub, GitLab CE,
-Docker Compose, Vagrant, unit testing frameworks, Bash, PowerShell, and more.
-
-DevOps isn't about the tools, but the process. I know how to automate things
-and get out of a team's way.
+I have informally served as a DevOps engineer in various roles, with
+experience in webpack, Grunt, Gulp, MSBuild, TFS, VSTS, Mecurial (hg),
+Git, Hudson/Jenkins CI, Slack, Atlassian Bitbucket/Jira/Bamboo,
+GitHub Actions, GitLab CE, Docker Compose, Vagrant, unit testing frameworks,
+Bash, PowerShell, and more.
 
 ### > Data and networking
 
-Redis, NGINX, Docker, Docker Compose, SQLite, SQL Server, and PostgreSQL.
+Redis, NGINX, Let's Encrypt, Docker, Docker Compose, SQLite, SQL Server,
+and Postgres.
 
-Oracle a fine database, but the company is toxic. Postgres is free and
-awesome, use that instead!
+GraphQL and REST, with or without Open API.
 
-GraphQL and REST, with or without Swagger.
+### > Cloud computing and security
 
-### > AWS and "the cloud"
-
-I'm learning K8s and Azure now, but Amazon Web Services (AWS) is what I know
-best.
-
-I have managed a network of servers and services on AWS since 2012.
+My primary expertise is in AWS, where I have managed a
+network of servers and services since 2012:
 
 * Route 53 (DNS routing),
 * VPC (virtual private networking),
@@ -130,7 +117,7 @@ I have managed a network of servers and services on AWS since 2012.
 * Certificate Manager (SSL cert management),
 * IAM user management, encryption options, two-factor auth, security groups, and more.
 
-I have real-world experience designing architectures which properly use the
+I have real-world experience designing architectures that use
 dynamic auto-scaling, load balancing, fault tolerant capabilities of AWS,
 and I have a good general knowledge of networking and troubleshooting in
 such environments.
@@ -141,13 +128,6 @@ My PGP public key is
 [0x6AF2BF57992F19ED](https://pgp.mit.edu/pks/lookup?op=vindex&search=0x6AF2BF57992F19ED).
 
 https://keybase.io/robert_claypool
-
-### > Crypto currencies
-
-It's just a hobby, but I could talk about this for hours.
-
-If you read the [Satoshi whitepaper](https://bitcoin.org/bitcoin.pdf),
-prepare to be blown away. :)
 
 ## Terms and conditions
 
